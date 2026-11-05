@@ -1,0 +1,9 @@
+# Schwere Roh- und Prozessdaten ignorieren
+CLEAN_REFIT_081116/
+processed_data/
+models/
+
+# Lokale Python-Caches und Bilder ignorieren
+*.png
+.venv/
+__pycache__/
